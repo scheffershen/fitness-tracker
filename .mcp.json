@@ -1,0 +1,25 @@
+{
+    "mcpServers": {
+        "context7": {
+            "type": "sse",
+            "url": "https://mcp.context7.com/sse"
+        },
+        "sequential-thinking": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "@modelcontextprotocol/server-sequential-thinking"
+            ]
+        },
+        "firecrawl-mcp": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "firecrawl-mcp"
+            ],
+            "env": {
+                "FIRECRAWL_API_KEY": "fc-57adc780c46e47feb6f0692e491a824e"
+            }
+        }
+    }
+}

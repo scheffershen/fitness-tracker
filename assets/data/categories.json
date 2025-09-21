@@ -1,0 +1,92 @@
+[
+  {
+    "id": "muscle-chest",
+    "name": "Chest",
+    "type": "muscle"
+  },
+  {
+    "id": "muscle-back",
+    "name": "Back",
+    "type": "muscle"
+  },
+  {
+    "id": "muscle-shoulders",
+    "name": "Shoulders",
+    "type": "muscle"
+  },
+  {
+    "id": "muscle-arms",
+    "name": "Arms",
+    "type": "muscle"
+  },
+  {
+    "id": "muscle-legs",
+    "name": "Legs",
+    "type": "muscle"
+  },
+  {
+    "id": "muscle-core",
+    "name": "Core",
+    "type": "muscle"
+  },
+  {
+    "id": "muscle-full-body",
+    "name": "Full Body",
+    "type": "muscle"
+  },
+  {
+    "id": "equipment-barbell",
+    "name": "Barbell",
+    "type": "equipment"
+  },
+  {
+    "id": "equipment-dumbbell",
+    "name": "Dumbbell",
+    "type": "equipment"
+  },
+  {
+    "id": "equipment-machine",
+    "name": "Machine",
+    "type": "equipment"
+  },
+  {
+    "id": "equipment-cable",
+    "name": "Cable",
+    "type": "equipment"
+  },
+  {
+    "id": "equipment-bodyweight",
+    "name": "Bodyweight",
+    "type": "equipment"
+  },
+  {
+    "id": "equipment-resistance-band",
+    "name": "Resistance Band",
+    "type": "equipment"
+  },
+  {
+    "id": "equipment-kettlebell",
+    "name": "Kettlebell",
+    "type": "equipment"
+  },
+  {
+    "id": "movement-strength",
+    "name": "Strength Training",
+    "type": "movement"
+  },
+  {
+    "id": "movement-cardio",
+    "name": "Cardiovascular",
+    "type": "movement"
+  },
+  {
+    "id": "movement-flexibility",
+    "name": "Flexibility",
+    "type": "movement"
+  },
+  {
+    "id": "movement-sports",
+    "name": "Sports",
+    "type": "movement"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "bench-press",
+    "name": "Bench Press",
+    "muscleGroups": ["chest", "shoulders", "arms"],
+    "equipment": ["barbell"],
+    "category": "strength",
+    "instructions": "Lie flat on bench, grip barbell slightly wider than shoulder width, lower to chest with control, press up explosively",
+    "imageUrl": ""
+  },
+  {
+    "id": "squat",
+    "name": "Barbell Squat",
+    "muscleGroups": ["legs", "core"],
+    "equipment": ["barbell"],
+    "category": "strength",
+    "instructions": "Stand with feet shoulder-width apart, squat down keeping chest up and knees tracking over toes, drive through heels to stand",
+    "imageUrl": ""
+  },
+  {
+    "id": "deadlift",
+    "name": "Deadlift",
+    "muscleGroups": ["back", "legs", "core"],
+    "equipment": ["barbell"],
+    "category": "strength",
+    "instructions": "Stand with feet hip-width apart, grip barbell, keep back straight, drive through heels and squeeze glutes to lift",
+    "imageUrl": ""
+  },
+  {
+    "id": "overhead-press",
+    "name": "Overhead Press",
+    "muscleGroups": ["shoulders", "arms", "core"],
+    "equipment": ["barbell"],
+    "category": "strength",
+    "instructions": "Stand with feet shoulder-width apart, press barbell overhead keeping core tight, lower with control",
+    "imageUrl": ""
+  },
+  {
+    "id": "pull-up",
+    "name": "Pull-up",
+    "muscleGroups": ["back", "arms"],
+    "equipment": ["bodyweight"],
+    "category": "strength",
+    "instructions": "Hang from bar with overhand grip, pull body up until chin clears bar, lower with control",
+    "imageUrl": ""
+  },
+  {
+    "id": "push-up",
+    "name": "Push-up",
+    "muscleGroups": ["chest", "shoulders", "arms", "core"],
+    "equipment": ["bodyweight"],
+    "category": "strength",
+    "instructions": "Start in plank position, lower body until chest nearly touches ground, push back up maintaining straight line",
+    "imageUrl": ""
+  },
+  {
+    "id": "dumbbell-row",
+    "name": "Dumbbell Row",
+    "muscleGroups": ["back", "arms"],
+    "equipment": ["dumbbell"],
+    "category": "strength",
+    "instructions": "Bent over with one knee on bench, pull dumbbell to side of torso, squeeze shoulder blade, lower with control",
+    "imageUrl": ""
+  },
+  {
+    "id": "bicep-curl",
+    "name": "Bicep Curl",
+    "muscleGroups": ["arms"],
+    "equipment": ["dumbbell"],
+    "category": "strength",
+    "instructions": "Stand with dumbbells at sides, curl weights up keeping elbows stationary, squeeze biceps at top",
+    "imageUrl": ""
+  },
+  {
+    "id": "tricep-dip",
+    "name": "Tricep Dip",
+    "muscleGroups": ["arms", "shoulders"],
+    "equipment": ["bodyweight"],
+    "category": "strength",
+    "instructions": "Sit on edge of bench or chair, lower body by bending elbows, push back up using triceps",
+    "imageUrl": ""
+  },
+  {
+    "id": "plank",
+    "name": "Plank",
+    "muscleGroups": ["core", "shoulders"],
+    "equipment": ["bodyweight"],
+    "category": "strength",
+    "instructions": "Hold straight line from head to heels, engage core, keep hips level, breathe normally",
+    "imageUrl": ""
+  },
+  {
+    "id": "lunges",
+    "name": "Lunges",
+    "muscleGroups": ["legs", "core"],
+    "equipment": ["bodyweight"],
+    "category": "strength",
+    "instructions": "Step forward into lunge position, lower back knee toward ground, push back to starting position",
+    "imageUrl": ""
+  },
+  {
+    "id": "incline-dumbbell-press",
+    "name": "Incline Dumbbell Press",
+    "muscleGroups": ["chest", "shoulders", "arms"],
+    "equipment": ["dumbbell"],
+    "category": "strength",
+    "instructions": "Lie on inclined bench, press dumbbells up from chest level, squeeze at top, lower with control",
+    "imageUrl": ""
+  },
+  {
+    "id": "lat-pulldown",
+    "name": "Lat Pulldown",
+    "muscleGroups": ["back", "arms"],
+    "equipment": ["machine"],
+    "category": "strength",
+    "instructions": "Sit at machine, pull bar down to upper chest, squeeze shoulder blades together, control the weight up",
+    "imageUrl": ""
+  },
+  {
+    "id": "leg-press",
+    "name": "Leg Press",
+    "muscleGroups": ["legs"],
+    "equipment": ["machine"],
+    "category": "strength",
+    "instructions": "Sit in machine, place feet on platform, lower weight by bending knees, press through heels to extend",
+    "imageUrl": ""
+  },
+  {
+    "id": "shoulder-press",
+    "name": "Dumbbell Shoulder Press",
+    "muscleGroups": ["shoulders", "arms"],
+    "equipment": ["dumbbell"],
+    "category": "strength",
+    "instructions": "Sit or stand with dumbbells at shoulder height, press overhead, lower with control",
+    "imageUrl": ""
+  },
+  {
+    "id": "running",
+    "name": "Running",
+    "muscleGroups": ["legs", "core"],
+    "equipment": ["bodyweight"],
+    "category": "cardio",
+    "instructions": "Maintain steady pace, land on midfoot, keep upright posture, breathe rhythmically",
+    "imageUrl": ""
+  },
+  {
+    "id": "cycling",
+    "name": "Cycling",
+    "muscleGroups": ["legs"],
+    "equipment": ["machine"],
+    "category": "cardio",
+    "instructions": "Maintain steady cadence, adjust resistance as needed, keep core engaged",
+    "imageUrl": ""
+  },
+  {
+    "id": "burpees",
+    "name": "Burpees",
+    "muscleGroups": ["full_body"],
+    "equipment": ["bodyweight"],
+    "category": "cardio",
+    "instructions": "Start standing, drop to squat, jump back to plank, do push-up, jump feet to squat, jump up with arms overhead",
+    "imageUrl": ""
+  },
+  {
+    "id": "mountain-climbers",
+    "name": "Mountain Climbers",
+    "muscleGroups": ["core", "legs"],
+    "equipment": ["bodyweight"],
+    "category": "cardio",
+    "instructions": "Start in plank position, alternate bringing knees to chest rapidly, maintain plank position",
+    "imageUrl": ""
+  },
+  {
+    "id": "stretching",
+    "name": "Full Body Stretching",
+    "muscleGroups": ["full_body"],
+    "equipment": ["bodyweight"],
+    "category": "flexibility",
+    "instructions": "Hold each stretch for 15-30 seconds, breathe deeply, never force the stretch",
+    "imageUrl": ""
+  }
+]
